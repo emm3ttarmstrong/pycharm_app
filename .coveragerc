@@ -1,0 +1,3 @@
+[run]
+source = pycharm_app
+omit = pycharm_app/test*
